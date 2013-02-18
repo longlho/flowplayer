@@ -1,0 +1,6 @@
+[submodule "plugins/ima"]
+	path = plugins/ima
+	url = git://github.com/thatguystone/flowplayer-ima.git
+[submodule "plugins/stw"]
+	path = plugins/stw
+	url = git://github.com/thatguystone/flowplayer-streamtheworld.git
